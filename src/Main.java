@@ -6,7 +6,7 @@ import estrategiasDeBusca.cega.BuscaEmProfundidadeLimitada;
 import estrategiasDeBusca.cega.BuscaEmProfundidadeIterativa;
 import estrategiasDeBusca.heuristica.*;
 import java.util.Scanner;
-
+ 
 public class Main {
         static Scanner entrada = new Scanner(System.in);
         
