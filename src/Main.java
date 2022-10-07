@@ -6,13 +6,13 @@ import estrategiasDeBusca.cega.BuscaEmProfundidadeLimitada;
 import estrategiasDeBusca.cega.BuscaEmProfundidadeIterativa;
 import estrategiasDeBusca.heuristica.*;
 import java.util.Scanner;
- 
+   
 public class Main {
         static Scanner entrada = new Scanner(System.in);
         
         public static void menuInicial(){
             
-            System.out.println("         MENU PRINCIPAL     ");
+            System.out.println("          MENU PRINCIPAL       ");
             System.out.println("------------------------------");
             System.out.println("                               ");
             System.out.println("1. Estratégias de busca cega");
